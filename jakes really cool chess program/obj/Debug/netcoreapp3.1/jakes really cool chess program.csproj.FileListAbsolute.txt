@@ -1,0 +1,4 @@
+C:\Users\Jake\source\repos\jakes really cool chess program\jakes really cool chess program\obj\Debug\netcoreapp3.1\jakes really cool chess program.csprojAssemblyReference.cache
+C:\Users\Jake\source\repos\jakes really cool chess program\jakes really cool chess program\obj\Debug\netcoreapp3.1\jakes really cool chess program.AssemblyInfoInputs.cache
+C:\Users\Jake\source\repos\jakes really cool chess program\jakes really cool chess program\obj\Debug\netcoreapp3.1\jakes really cool chess program.AssemblyInfo.cs
+C:\Users\Jake\source\repos\jakes really cool chess program\jakes really cool chess program\obj\Debug\netcoreapp3.1\jakes really cool chess program.csproj.CoreCompileInputs.cache
