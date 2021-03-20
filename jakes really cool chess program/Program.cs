@@ -10,14 +10,14 @@ namespace jakes_really_cool_chess_program
         }
     }
 
-    static void CalculateELO(ref object playerOne, ref object playerTwo, GameOutcome outcome)
+    static void CalculateELO(ref Player playerOne, ref Player playerTwo, GameOutcome outcome)
     {
         int eloK = 32;
 
-        int delta = (int)(eloK * ((int)outcome - playerOne.ExpectationToWin(playerTwo.returnElo));
+        int delta = (int)(eloK * ((int)outcome - playerOne.ExpectationToWin(playerTwo.Elo));
 
-        playerOneRating += delta;
-        playerTwoRating -= delta;
+        playerOne.Elo += delta;
+        playerTwo.Elo -= delta;
     }
 
     public class Player
@@ -34,11 +34,6 @@ namespace jakes_really_cool_chess_program
 
         public int Elo
         { get; set; }
-
-        public int returnElo
-        {
-            return elo;
-        }
 
         public double ExpectationToWin(int playerTwoRating)
         {
