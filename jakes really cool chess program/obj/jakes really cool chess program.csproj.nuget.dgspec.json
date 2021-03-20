@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jake\\source\\repos\\jakes really cool chess program\\jakes really cool chess program\\jakes really cool chess program.csproj": {}
+    "C:\\Users\\Jake\\source\\repos\\jakes really cool chess program\\chessProg\\jakes really cool chess program\\jakes really cool chess program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jake\\source\\repos\\jakes really cool chess program\\jakes really cool chess program\\jakes really cool chess program.csproj": {
+    "C:\\Users\\Jake\\source\\repos\\jakes really cool chess program\\chessProg\\jakes really cool chess program\\jakes really cool chess program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jake\\source\\repos\\jakes really cool chess program\\jakes really cool chess program\\jakes really cool chess program.csproj",
+        "projectUniqueName": "C:\\Users\\Jake\\source\\repos\\jakes really cool chess program\\chessProg\\jakes really cool chess program\\jakes really cool chess program.csproj",
         "projectName": "jakes really cool chess program",
-        "projectPath": "C:\\Users\\Jake\\source\\repos\\jakes really cool chess program\\jakes really cool chess program\\jakes really cool chess program.csproj",
+        "projectPath": "C:\\Users\\Jake\\source\\repos\\jakes really cool chess program\\chessProg\\jakes really cool chess program\\jakes really cool chess program.csproj",
         "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jake\\source\\repos\\jakes really cool chess program\\jakes really cool chess program\\obj\\",
+        "outputPath": "C:\\Users\\Jake\\source\\repos\\jakes really cool chess program\\chessProg\\jakes really cool chess program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config",
